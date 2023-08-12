@@ -1,0 +1,23 @@
+.card{
+    height: 700px;
+}
+.card-img-top{
+    height: 200px;
+}
+
+.card-title{
+    height: 110px;
+}
+.card-body{
+    height: 120px;
+}
+.card-text{
+    height: 230px;
+}
+.date{
+font-size: 12px;
+}
+.background{
+    color: white;
+    background-color: black;
+}
